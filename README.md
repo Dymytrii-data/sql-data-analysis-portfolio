@@ -12,6 +12,12 @@ The goal is to demonstrate my ability to write analytical SQL queries and extrac
   - Conditional logic (`CASE`)
   - Subqueries and basic window functions (in progress)
 
+## 📜 Certificates
+
+### Stepik
+- **Fundamentals of Data Visualization in Excel**  
+  Public certificate: https://stepik.org/cert/3230738
+
 ## 🛠️ Skills demonstrated
 
 - Writing SQL queries to answer business questions
